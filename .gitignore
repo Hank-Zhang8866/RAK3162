@@ -1,0 +1,25 @@
+# Altium Designer 忽略文件配置
+
+## 项目生成文件和缓存
+History/
+Project Logs*/
+Project Outputs*/
+**/__Previews/
+
+## 输出文件
+*.OutJob
+*.PrjPcbStructure
+
+## 预览文件
+*.SchDocPreview
+*.PcbDocPreview
+
+## 临时文件
+*.~lock.*
+*.Lock
+
+## 其他杂项
+*.Log
+*.htm
+*.SchDoc.Zip
+*.PcbDoc.Zip
